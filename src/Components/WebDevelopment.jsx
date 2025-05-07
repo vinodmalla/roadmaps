@@ -3,7 +3,7 @@ import web from "../web.webp"
 import wb2 from '../wb2.jpg'
 
 export default function WebDevelopment() {
-  return (
+ return (
     <div className="flex flex-col p-10 justify-center max-w-6xl mx-auto">
       <h1 className="text-3xl font-bold text-center sm:text-4xl md:text-5xl">
         Frontend Developer Roadmap 2025:<br /> The Complete Guide
