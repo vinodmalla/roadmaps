@@ -94,8 +94,6 @@ export default function WebDevelopment() {
         <a className='text-blue-500 underline  mt-2' herf="https://youtube.com/@roadsidecoder?feature=shared" target='_blank'>RoadsideCoder</a><br/>
         <a className='text-blue-500 underline  mt-2' herf="https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&feature=shared" target='_blank'>Chai aur reacts</a></li>
       </ul>
-
-
     </div>
   );
 }

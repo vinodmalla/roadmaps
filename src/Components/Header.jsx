@@ -13,6 +13,7 @@ export default function Header() {
         <select defaultValue="Pick your course" className="select select-info" onChange={handleChange}>
             <option value={"/"}>Pick a your course</option>
             <option value={"/web"}>Web Development</option>
+            <option>Automation Testing</option> 
             <option>Data Science</option>
             <option>Machine Learning</option>
             <option>UI/UX Design</option>
